@@ -1,4 +1,4 @@
-package com.cydeo;
+package $com.cydeo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
