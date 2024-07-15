@@ -8,12 +8,11 @@
         <version>3.3.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-
     <groupId>com.cydeo</groupId>
-    <artifactId>Spring-06-SpringBoot-Demo</artifactId>
+    <artifactId>Spring-07-MVC-Controller</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Spring-06-SpringBoot-Demo</name>
-    <description>Spring-06-SpringBoot-Demo</description>
+    <name>Spring-07-MVC-Controller</name>
+    <description>Spring-07-MVC-Controller</description>
     <url/>
     <licenses>
         <license/>
@@ -30,22 +29,16 @@
     <properties>
         <java.version>17</java.version>
     </properties>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
+            <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
         </dependency>
     </dependencies>
 
