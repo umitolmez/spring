@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/Spring-06-SpringBoot-Demo" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring-09-Spring-Thymeleaf" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -11,18 +12,12 @@
         <option value="$PROJECT_DIR$/Spring-02-Core-Wiring/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-03-Core-DI/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-04-Core-Abstraction/pom.xml" />
-        <option value="$PROJECT_DIR$/Spring-05-Core-BeanScope/Spring-05-Core-BeanScope/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-05-Core-BeanScope/pom.xml" />
-        <option value="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-07-MVC-Controller/pom.xml" />
-        <option value="$PROJECT_DIR$/Spring-08-MVC-Controller/pom.xml" />
-        <option value="$PROJECT_DIR$/Spring-08-MVC-Model/pom.xml" />
-      </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
+        <option value="$PROJECT_DIR$/../../javaDev/spring/Spring-06-SpringBoot-Demo/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/pom.xml" />
-      </set>
+        <option value="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/pom.xml" />
+      </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
