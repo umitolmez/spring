@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-02-Core-Wiring/Spring-02-Core-Wiring.iml" filepath="$PROJECT_DIR$/Spring-02-Core-Wiring/Spring-02-Core-Wiring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-04-Core-Abstraction/Spring-04-Core-Abstraction.iml" filepath="$PROJECT_DIR$/Spring-04-Core-Abstraction/Spring-04-Core-Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-08-MVC-Model/Spring-08-MVC-Model.iml" filepath="$PROJECT_DIR$/Spring-08-MVC-Model/Spring-08-MVC-Model.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.iml" filepath="$PROJECT_DIR$/spring.iml" />
     </modules>
