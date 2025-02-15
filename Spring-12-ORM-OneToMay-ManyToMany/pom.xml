@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cydeo</groupId>
-	<artifactId>Spring12-ORM-OneToMany-ManyToMany</artifactId>
+	<artifactId>Spring-12-ORM-OneToMany-ManyToMany</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Spring12-ORM-OneToMay-ManyToMany</name>
 	<description>Spring12-ORM-OneToMay-ManyToMany</description>
